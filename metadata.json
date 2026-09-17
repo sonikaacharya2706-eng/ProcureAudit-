@@ -1,0 +1,6 @@
+{
+  "name": "ProcureAudit - Public Procurement Anomaly Detection",
+  "description": "Automated public procurement anomaly detection system with statistical and behavioral analytical rules, investigator audit dashboard, and collusion network graph.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
